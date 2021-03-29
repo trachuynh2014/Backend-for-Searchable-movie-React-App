@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "",
-  "db": "mongodb://localhost/vidly-api-version-1"
+  "db": "https://damp-lake-06933.herokuapp.com/"
 }
